@@ -1,3 +1,4 @@
+# dashboard/components.py
 import streamlit as st
 
 def display_metric(name, value, threshold=80):
