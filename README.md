@@ -77,7 +77,7 @@ Ai-predictive-cloud-observability
 
 ---
 
-## 🛠️ How To Run Locally
+##  How To Run Locally
 
 ### Clone the repository
 
