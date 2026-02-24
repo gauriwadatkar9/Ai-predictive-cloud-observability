@@ -132,7 +132,9 @@ Ai-predictive-cloud-observability
 ---
 
 ### 2️⃣ Run Frontend
+
 cd Ai-predictive-cloud-observability/frontend
+
 npm install
 npm start
 
